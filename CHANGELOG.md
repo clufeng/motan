@@ -1,5 +1,52 @@
 # Change Log
 
+## [0.3.1](https://github.com/weibocom/motan/tree/0.3.1) (2017-07-11)
+[Full Changelog](https://github.com/weibocom/motan/compare/0.3.0...0.3.1)
+
+**Implemented enhancements:**
+
+- add protobuf serialization [\#425](https://github.com/weibocom/motan/pull/425) ([东方上人](https://github.com/dongfangshangren))
+- add restful protocol support [\#458](https://github.com/weibocom/motan/pull/458) ([东方上人](https://github.com/dongfangshangren))
+
+**Fixed bugs:**
+
+- fix basic service not enable [\#423](https://github.com/weibocom/motan/pull/423) ([Voyager3](https://github.com/xxxxzr)) 
+- add ShutDownHookListener [\#443](https://github.com/weibocom/motan/pull/443) ([Voyager3](https://github.com/xxxxzr))
+- fix zookeeper UT [\#334](https://github.com/weibocom/motan/pull/334) ([sunnights](https://github.com/sunnights))
+
+**Merged pull requests:**
+
+- polish ConsulEcwidClient [\#395](https://github.com/weibocom/motan/pull/395) ([Jin Zhang](https://github.com/lowzj)) 
+- reduce duplication of getting referer [\#407](https://github.com/weibocom/motan/pull/407) ([brandy](https://github.com/xiaoqing-yuanfang)) 
+
+## [0.3.0](https://github.com/weibocom/motan/tree/0.3.0) (2017-03-09)
+[Full Changelog](https://github.com/weibocom/motan/compare/0.2.3...0.3.0)
+
+**Implemented enhancements:**
+
+- async call [\#372](https://github.com/weibocom/motan/pull/372) ([Ray](https://github.com/rayzhang0603))
+
+**Fixed bugs:**
+
+**Merged pull requests:**
+
+
+## [0.2.3](https://github.com/weibocom/motan/tree/0.2.3) (2017-02-16)
+[Full Changelog](https://github.com/weibocom/motan/compare/0.2.2...0.2.3)
+
+**Implemented enhancements:**
+
+- OpenTracing supported [\#311](https://github.com/weibocom/motan/pull/311) ([Ray](https://github.com/rayzhang0603))
+- change xsd type to string  [\#326](https://github.com/weibocom/motan/pull/326) ([Ray](https://github.com/rayzhang0603))
+
+**Fixed bugs:**
+
+- add Ordered interface to AnnotationBean [\#322](https://github.com/weibocom/motan/pull/322) ([feilaoda](https://github.com/feilaoda)) 
+- available after register while heartbeat switcher is open  [\#305](https://github.com/weibocom/motan/pull/305) ([Ray](https://github.com/rayzhang0603))
+
+**Merged pull requests:**
+
+
 ## [0.2.2](https://github.com/weibocom/motan/tree/0.2.2) (2016-11-25)
 [Full Changelog](https://github.com/weibocom/motan/compare/0.2.1...0.2.2)
 
